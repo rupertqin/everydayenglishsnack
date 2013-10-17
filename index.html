@@ -1,0 +1,24 @@
+<!doctype html>
+<html ng-app="ngSanitize">
+  <head>
+	<meta charset="utf-8">
+	<title>everyday English snack</title>
+	<style>
+		audio{width: 540px;margin: 20px 0;}
+		select{height: 28px;line-height: 28px;width: 300px;border: 1px solid #ccc;display: block;}
+		article{width: 500px;height: 500px;padding: 10px 20px;border: 1px solid #ccc; overflow: scroll;position: relative;}
+	</style>
+	<script type="text/javascript" src="js/angular.min-1.2.0.js"></script>
+	<script type="text/javascript" src="js/angular-sanitize.min.js"></script>
+	<script type="text/javascript" src="js/controller.js"></script>
+</head>
+<body ng-controller="Player">
+
+	<select ng-model="track" ng-options="song for song in tracks" ng-change='select()'></select>
+
+	<div ng-bind-html="trustAudioHtml()" ></div>
+	
+	<article ng-bind-html="trustHtml()" ></article>
+
+</body>
+</html>
