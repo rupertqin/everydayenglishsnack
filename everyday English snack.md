@@ -1,4 +1,4 @@
-# Dr Faustus
+## Dr Faustus
 ###### ( chapter 1 ) [sourse](http://texts.crossref-it.info/text/doctor-faustus/scene-three)
 
 FAUSTUS:  
@@ -166,7 +166,7 @@ I'll live in speculation of this art
 Till Mephistophilis return again.     
 (Exit).
 
-#Don Quixote
+## Don Quixote
 ###### ( chapter 6 ) [sourse](http://www.gradesaver.com/don-quixote-book-i/e-text/section4/)
 
 In a village of La Mancha, the name of which I have no desire to call to mind, there lived not long since one of those gentlemen that keep a lance in the lance-rack, an old buckler, a lean hack, and a greyhound for coursing. An olla of rather more beef than mutton, a salad on most nights, scraps on Saturdays, lentils on Fridays, and a pigeon or so extra on Sundays, made away with three-quarters of his income. The rest of it went in a doublet of fine cloth and velvet breeches and shoes to match for holidays, while on week-days he made a brave figure in his best homespun. He had in his house a housekeeper past forty, a niece under twenty, and a lad for the field and market-place, who used to saddle the hack as well as handle the bill-hook. The age of this gentleman of ours was bordering on fifty; he was of a hardy habit, spare, gaunt-featured, a very early riser and a great sportsman. They will have it his surname was Quixada or Quesada (for here there is some difference of opinion among the authors who write on the subject), although from reasonable conjectures it seems plain that he was called Quexana. This, however, is of but little importance to our tale; it will be enough not to stray a hair's breadth from the truth in the telling of it.
@@ -174,7 +174,7 @@ In a village of La Mancha, the name of which I have no desire to call to mind, t
 You must know, then, that the above-named gentleman whenever he was at leisure (which was mostly all the year round) gave himself up to reading books of chivalry with such ardour and avidity that he almost entirely neglected the pursuit of his field-sports, and even the management of his property; and to such a pitch did his eagerness and infatuation go that he sold many an acre of tillageland to buy books of chivalry to read, and brought home as many of them as he could get. But of all there were none he liked so well as those of the famous Feliciano de Silva's composition, for their lucidity of style and complicated conceits were as pearls in his sight, particularly when in his reading he came upon courtships and cartels, where he often found passages like "the reason of the unreason with which my reason is afflicted so weakens my reason that with reason I murmur at your beauty;" or again, "the high heavens, that of your divinity divinely fortify you with the stars, render you deserving of the desert your greatness deserves." Over conceits of this sort the poor gentleman lost his wits, and used to lie awake striving to understand them and worm the meaning out of them; what Aristotle himself could not have made out or extracted had he come to life again for that special purpose. He was not at all easy about the wounds which Don Belianis gave and took, because it seemed to him that, great as were the surgeons who had cured him, he must have had his face and body covered all over with seams and scars. He commended, however, the author's way of ending his book with the promise of that interminable adventure, and many a time was he tempted to take up his pen and finish it properly as is there proposed, which no doubt he would have done, and made a successful piece of work of it too, had not greater and more absorbing thoughts prevented him.
 Many an argument did he have with the curate of his village (a learned man, and a graduate of Siguenza) as to which had been the better knight, Palmerin of England or Amadis of Gaul. Master Nicholas, the village barber, however, used to say that neither of them came up to the Knight of Phoebus, and that if there was any that could compare with him it was Don Galaor, the brother of Amadis of Gaul, because he had a spirit that was equal to every occasion, and was no finikin knight, nor lachrymose like his brother, while in the matter of valour he was not a whit behind him. In short, he became so absorbed in his books that he spent his nights from sunset to sunrise, and his days from dawn to dark, poring over them; and what with little sleep and much reading his brains got so dry that he lost his wits. His fancy grew full of what he used to read about in his books, enchantments, quarrels, battles, challenges, wounds, wooings, loves, agonies, and all sorts of impossible nonsense; and it so possessed his mind that the whole fabric of invention and fancy he read of was true, that to him no history in the world had more reality in it. He used to say the Cid Ruy Diaz was a very good knight, but that he was not to be compared with the Knight of the Burning Sword who with one back-stroke cut in half two fierce and monstrous giants. He thought more of Bernardo del Carpio because at Roncesvalles he slew Roland in spite of enchantments, availing himself of the artifice of Hercules when he strangled Antaeus the son of Terra in his arms. He approved highly of the giant Morgante, because, although of the giant breed which is always arrogant and ill-conditioned, he alone was affable and well-bred. But above all he admired Reinaldos of Montalban, especially when he saw him sallying forth from his castle and robbing everyone he met, and when beyond the seas he stole that image of Mahomet which, as his history says, was entirely of gold. To have a bout of kicking at that traitor of a Ganelon he would have given his housekeeper, and his niece into the bargain.
 
-#the great Gatsby
+## the great Gatsby
 ###### ( chapter 7 ) [sourse](http://poetry.rapgenius.com/F-scott-fitzgerald-the-great-gatsby-chapter-ix-lyrics)
 
 I spent my Saturday nights in New York because those gleaming, dazzling parties of his were with me so vividly that I could still hear the music and the laughter, faint and incessant, from his garden, and the cars going up and down his drive. One night I did hear a material car there, and saw its lights stop at his front steps. But I didn’t investigate. Probably it was some final guest who had been away at the ends of the earth and didn’t know that the party was over.
@@ -189,7 +189,142 @@ Gatsby believed in the green light, the orgastic future that year by year recede
 
 So we beat on, boats against the current, borne back ceaselessly into the past.
 
-#Araby
+## the story of an hour
+###### ( chapter 8 ) [sourse](http://www.vcu.edu/engweb/webtexts/hour/)
+
+Knowing that Mrs. Mallard was afflicted with a heart trouble, great care was taken to break to her as gently as possible the news of her husband's death.
+It was her sister Josephine who told her, in broken sentences; veiled hints that revealed in half concealing. Her husband's friend Richards was there, too, near her. It was he who had been in the newspaper office when intelligence of the railroad disaster was received, with Brently Mallard's name leading the list of "killed." He had only taken the time to assure himself of its truth by a second telegram, and had hastened to forestall any less careful, less tender friend in bearing the sad message.
+
+She did not hear the story as many women have heard the same, with a paralyzed inability to accept its significance. She wept at once, with sudden, wild abandonment, in her sister's arms. When the storm of grief had spent itself she went away to her room alone. She would have no one follow her.
+
+There stood, facing the open window, a comfortable, roomy armchair. Into this she sank, pressed down by a physical exhaustion that haunted her body and seemed to reach into her soul.
+
+She could see in the open square before her house the tops of trees that were all aquiver with the new spring life. The delicious breath of rain was in the air. In the street below a peddler was crying his wares. The notes of a distant song which some one was singing reached her faintly, and countless sparrows were twittering in the eaves.
+
+There were patches of blue sky showing here and there through the clouds that had met and piled one above the other in the west facing her window.
+
+She sat with her head thrown back upon the cushion of the chair, quite motionless, except when a sob came up into her throat and shook her, as a child who has cried itself to sleep continues to sob in its dreams.
+
+She was young, with a fair, calm face, whose lines bespoke repression and even a certain strength. But now there was a dull stare in her eyes, whose gaze was fixed away off yonder on one of those patches of blue sky. It was not a glance of reflection, but rather indicated a suspension of intelligent thought.
+
+There was something coming to her and she was waiting for it, fearfully. What was it? She did not know; it was too subtle and elusive to name. But she felt it, creeping out of the sky, reaching toward her through the sounds, the scents, the color that filled the air.
+
+Now her bosom rose and fell tumultuously. She was beginning to recognize this thing that was approaching to possess her, and she was striving to beat it back with her will--as powerless as her two white slender hands would have been. When she abandoned herself a little whispered word escaped her slightly parted lips. She said it over and over under hte breath: "free, free, free!" The vacant stare and the look of terror that had followed it went from her eyes. They stayed keen and bright. Her pulses beat fast, and the coursing blood warmed and relaxed every inch of her body.
+
+She did not stop to ask if it were or were not a monstrous joy that held her. A clear and exalted perception enabled her to dismiss the suggestion as trivial. She knew that she would weep again when she saw the kind, tender hands folded in death; the face that had never looked save with love upon her, fixed and gray and dead. But she saw beyond that bitter moment a long procession of years to come that would belong to her absolutely. And she opened and spread her arms out to them in welcome.
+
+There would be no one to live for during those coming years; she would live for herself. There would be no powerful will bending hers in that blind persistence with which men and women believe they have a right to impose a private will upon a fellow-creature. A kind intention or a cruel intention made the act seem no less a crime as she looked upon it in that brief moment of illumination.
+
+And yet she had loved him--sometimes. Often she had not. What did it matter! What could love, the unsolved mystery, count for in the face of this possession of self-assertion which she suddenly recognized as the strongest impulse of her being!
+
+"Free! Body and soul free!" she kept whispering.
+
+Josephine was kneeling before the closed door with her lips to the keyhold, imploring for admission. "Louise, open the door! I beg; open the door--you will make yourself ill. What are you doing, Louise? For heaven's sake open the door."
+
+"Go away. I am not making myself ill." No; she was drinking in a very elixir of life through that open window.
+
+Her fancy was running riot along those days ahead of her. Spring days, and summer days, and all sorts of days that would be her own. She breathed a quick prayer that life might be long. It was only yesterday she had thought with a shudder that life might be long.
+
+She arose at length and opened the door to her sister's importunities. There was a feverish triumph in her eyes, and she carried herself unwittingly like a goddess of Victory. She clasped her sister's waist, and together they descended the stairs. Richards stood waiting for them at the bottom.
+
+Some one was opening the front door with a latchkey. It was Brently Mallard who entered, a little travel-stained, composedly carrying his grip-sack and umbrella. He had been far from the scene of the accident, and did not even know there had been one. He stood amazed at Josephine's piercing cry; at Richards' quick motion to screen him from the view of his wife.
+
+But Richards was too late. 
+
+When the doctors came they said she had died of heart disease--of the joy that kills. 
+
+## Ulysses
+###### ( chapter 10 ) [sourse](http://www.gutenberg.org/files/4300/4300-h/4300-h.htm)
+
+Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed. A yellow dressinggown, ungirdled, was sustained gently behind him on the mild morning air. He held the bowl aloft and intoned:
+—Introibo ad altare Dei.
+
+Halted, he peered down the dark winding stairs and called out coarsely:
+
+—Come up, Kinch! Come up, you fearful jesuit!
+
+Solemnly he came forward and mounted the round gunrest. He faced about and blessed gravely thrice the tower, the surrounding land and the awaking mountains. Then, catching sight of Stephen Dedalus, he bent towards him and made rapid crosses in the air, gurgling in his throat and shaking his head. Stephen Dedalus, displeased and sleepy, leaned his arms on the top of the staircase and looked coldly at the shaking gurgling face that blessed him, equine in its length, and at the light untonsured hair, grained and hued like pale oak.
+
+Buck Mulligan peeped an instant under the mirror and then covered the bowl smartly.
+—Back to barracks! he said sternly.
+
+He added in a preacher's tone:
+
+—For this, O dearly beloved, is the genuine Christine: body and soul and blood and ouns. Slow music, please. Shut your eyes, gents. One moment. A little trouble about those white corpuscles. Silence, all.
+
+He peered sideways up and gave a long slow whistle of call, then paused awhile in rapt attention, his even white teeth glistening here and there with gold points. 
+
+Chrysostomos. Two strong shrill whistles answered through the calm.
+
+—Thanks, old chap, he cried briskly. That will do nicely. Switch off the current, will you?
+
+He skipped off the gunrest and looked gravely at his watcher, gathering about his legs the loose folds of his gown. The plump shadowed face and sullen oval jowl recalled a prelate, patron of arts in the middle ages. A pleasant smile broke quietly over his lips.
+—The mockery of it! he said gaily. Your absurd name, an ancient Greek!
+
+He pointed his finger in friendly jest and went over to the parapet, laughing to himself. Stephen Dedalus stepped up, followed him wearily halfway and sat down on the edge of the gunrest, watching him still as he propped his mirror on the parapet, dipped the brush in the bowl and lathered cheeks and neck.
+
+Buck Mulligan's gay voice went on.
+
+—My name is absurd too: Malachi Mulligan, two dactyls. But it has a Hellenic ring, hasn't it? Tripping and sunny like the buck himself. We must go to Athens. Will you come if I can get the aunt to fork out twenty quid?
+
+He laid the brush aside and, laughing with delight, cried:
+
+—Will he come? The jejune jesuit!
+
+Ceasing, he began to shave with care.
+
+—Tell me, Mulligan, Stephen said quietly.
+
+—Yes, my love?
+
+—How long is Haines going to stay in this tower?
+
+Buck Mulligan showed a shaven cheek over his right shoulder.
+
+—God, isn't he dreadful? he said frankly. A ponderous Saxon. He thinks you're not a gentleman. God, these bloody English! Bursting with money and indigestion. Because he comes from Oxford. You know, Dedalus, you have the real Oxford manner. He can't make you out. O, my name for you is the best: Kinch, the knife-blade.
+
+He shaved warily over his chin.
+
+—He was raving all night about a black panther, Stephen said. Where is his guncase?
+—A woful lunatic! Mulligan said. Were you in a funk?
+
+—I was, Stephen said with energy and growing fear. Out here in the dark with a man I don't know raving and moaning to himself about shooting a black panther. You saved men from drowning. I'm not a hero, however. If he stays on here I am off.
+
+Buck Mulligan frowned at the lather on his razorblade. He hopped down from his perch and began to search his trouser pockets hastily.
+
+—Scutter! he cried thickly.
+
+He came over to the gunrest and, thrusting a hand into Stephen's upper pocket, said:
+—Lend us a loan of your noserag to wipe my razor.
+
+Stephen suffered him to pull out and hold up on show by its corner a dirty crumpled handkerchief. Buck Mulligan wiped the razorblade neatly. Then, gazing over the handkerchief, he said:
+
+—The bard's noserag! A new art colour for our Irish poets: snotgreen. You can almost taste it, can't you?
+
+He mounted to the parapet again and gazed out over Dublin bay, his fair oakpale hair stirring slightly.
+
+—God! he said quietly. Isn't the sea what Algy calls it: a grey sweet mother? The snotgreen sea. The scrotumtightening sea. Epi oinopa ponton. Ah, Dedalus, the Greeks! I must teach you. You must read them in the original. Thalatta! Thalatta! She is our great sweet mother. Come and look.
+
+Stephen stood up and went over to the parapet. Leaning on it he looked down on the water and on the mailboat clearing the harbourmouth of Kingstown.
+
+—Our mighty mother! Buck Mulligan said.
+
+He turned abruptly his grey searching eyes from the sea to Stephen's face.
+
+—The aunt thinks you killed your mother, he said. That's why she won't let me have anything to do with you.
+
+—Someone killed her, Stephen said gloomily.
+
+—You could have knelt down, damn it, Kinch, when your dying mother asked you, Buck Mulligan said. I'm hyperborean as much as you. But to think of your mother begging you with her last breath to kneel down and pray for her. And you refused. There is something sinister in you...
+
+He broke off and lathered again lightly his farther cheek. A tolerant smile curled his lips.
+
+—But a lovely mummer! he murmured to himself. Kinch, the loveliest mummer of them all!
+He shaved evenly and with care, in silence, seriously.
+
+Stephen, an elbow rested on the jagged granite, leaned his palm against his brow and gazed at the fraying edge of his shiny black coat-sleeve. Pain, that was not yet the pain of love, fretted his heart. Silently, in a dream she had come to him after her death, her wasted body within its loose brown graveclothes giving off an odour of wax and rosewood, her breath, that had bent upon him, mute, reproachful, a faint odour of wetted ashes. Across the threadbare cuffedge he saw the sea hailed as a great sweet mother by the wellfed voice beside him. The ring of bay and skyline held a dull green mass of liquid. A bowl of white china had stood beside her deathbed holding the green sluggish bile which she had torn up from her rotting liver by fits of loud groaning vomiting.
+
+## Araby
 ###### ( chapter 15 ) [sourse](http://fiction.eserver.org/short/araby.html)
 
 Every morning I lay on the floor in the front parlour watching her door. The blind was pulled down to within an inch of the sash so that I could not be seen. When she came out on the doorstep my heart leaped. I ran to the hall, seized my books and followed her. I kept her brown figure always in my eye and, when we came near the point at which our ways diverged, I quickened my pace and passed her. This happened morning after morning. I had never spoken to her, except for a few casual words, and yet her name was like a summons to all my foolish blood.
@@ -234,7 +369,7 @@ My uncle said he was very sorry he had forgotten. He said he believed in the old
 
 I held a florin tightly in my hand as I strode down Buckingham Street towards the station. The sight of the streets thronged with buyers and glaring with gas recalled to me the purpose of my journey. I took my seat in a third-class carriage of a deserted train. After an intolerable delay the train moved out of the station slowly. It crept onward among ruinous houses and over the twinkling river. At Westland Row Station a crowd of people pressed to the carriage doors; but the porters moved them back, saying that it was a special train for the bazaar. I remained alone in the bare carriage. In a few minutes the train drew up beside an improvised wooden platform. I passed out on to the road and saw by the lighted dial of a clock that it was ten minutes to ten. In front of me was a large building which displayed the magical name.
 
-#the scarlet letter
+## the scarlet letter
 ###### ( chapter 22 ) [sourse](http://www.sparknotes.com/nofear/lit/the-scarlet-letter/chapter-2/page_2.html)
 
 The grass-plot before the jail, in Prison Lane, on a certain summer morning, not less than two centuries ago, was occupied by a pretty large number of the inhabitants of Boston; all with their eyes intently fastened on the iron-clamped oaken door. Amongst any other population, or at a later period in the history of New England, the grim rigidity that petrified the bearded physiognomies of these good people would have augured some awful business in hand. It could have betokened nothing short of the anticipated execution of some noted culprit, on whom the sentence of a legal tribunal had but confirmed the verdict of public sentiment. But, in that early severity of the Puritan character, an inference of this kind could not so indubitably be drawn. It might be that a sluggish bond-servant, or an undutiful child, whom his parents had given over to the civil authority, was to be corrected at the whipping-post. It might be, that an Antinomian, a Quaker, or other heterodox religionist, was to be scourged out of the town, or an idle and vagrant Indian, whom the white man’s fire-water had made riotous about the streets, was to be driven with stripes into the shadow of the forest. It might be, too, that a witch, like old Mistress Hibbins, the bitter-tempered widow of the magistrate, was to die upon the gallows. In either case, there was very much the same solemnity of demeanour on the part of the spectators; as befitted a people amongst whom religion and law were almost identical, and in whose character both were so thoroughly interfused, that the mildest and the severest acts of public discipline were alike made venerable and awful. Meagre, indeed, and cold, was the sympathy that a transgressor might look for, from such bystanders at the scaffold. On the other hand, a penalty which, in our days, would infer a degree of mocking infamy and ridicule, might then be invested with almost as stern a dignity as the punishment of death itself.
@@ -246,7 +381,7 @@ It was a circumstance to be noted, on the summer morning when our story begins i
 
 “The magistrates are God-fearing gentlemen, but merciful overmuch,—that is a truth,” added a third autumnal matron. “At the very least, they should have put the brand of a hot iron on Hester Prynne’s forehead. Madam Hester would have winced at that, I warrant me. But she,—the naughty baggage,—little will she care what they put upon the bodice of her gown! Why, look you, she may cover it with a brooch, or such like heathenish adornment, and so walk the streets as brave as ever!”
 
-#sons and lovers
+## sons and lovers
 ###### ( chapter 23 ) [sourse](http://www.americanliterature.com/author/d-h-lawrence/book/sons-and-lovers/10-clara)
 
 EWHEN he was twenty-three years old, Paul sent in a landscape to the winter exhibition at Nottingham Castle. Miss Jordan had taken a good deal of interest in him, and invited him to her house, where he met other artists. He was beginning to grow ambitious.
